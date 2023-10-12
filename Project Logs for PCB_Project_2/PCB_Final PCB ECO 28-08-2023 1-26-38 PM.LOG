@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PB12 Pin=R4-1
+Removed Pin From Net: NetName=PB13 Pin=U1-26
+Added Pin To Net: NetName=PB12 Pin=R3-2
+Added Pin To Net: NetName=PB13 Pin=U1-42
+Change Net Name : Old Net Name=PB13 New Net Name=PB6
+Added Pin To Net: NetName=PB13 Pin=R4-1
+Added Pin To Net: NetName=PB13 Pin=U1-26
+Added Net: Name=PB13
